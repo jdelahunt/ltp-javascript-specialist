@@ -1,1 +1,1 @@
-# ltp-javascript-specialist
+# Jacques' Javascript Specialist Repository
